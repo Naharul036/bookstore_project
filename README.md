@@ -2,6 +2,22 @@
 
 This is a Laravel-based Bookstore web application. The project provides a platform to manage books and users, supporting CRUD operations, authentication, and a modern frontend powered by Vite.
 
+
+---
+
+## 📺 Demo Video
+
+<div align="center">
+  
+[![Book Store Laravel Demo](https://github.com/noobdevsam/book-store-laravel-project/blob/master/resources/Screenshot2025-05-22.png)](https://youtu.be/MxATPW3Ew_E?feature=shared)
+
+</div>
+
+> _Click the image above to watch the demo on YouTube!_
+
+
+---
+
 ## Features
 
 - User registration and authentication
