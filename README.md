@@ -9,7 +9,7 @@ This is a Laravel-based Bookstore web application. The project provides a platfo
 
 <div align="center">
   
-[![Book Store Laravel Demo](https://github.com/noobdevsam/book-store-laravel-project/blob/master/resources/Screenshot2025-05-22.png)](https://youtu.be/MxATPW3Ew_E?feature=shared)
+[![Book Store Laravel Demo](https://github.com/noobdevsam/book-store-laravel-project/blob/master/resources/Screenshot2025-05-22.png)](https://youtu.be/d_CuUl--PcM)
 
 </div>
 
